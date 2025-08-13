@@ -45,7 +45,7 @@ src/main/java/com/coding/exercise/bankapp/
 ### Installation & Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/BankApp.git
+git clone https://github.com/iamvikash28/BankApp.git
 ```
 ```bash
 # Navigate into the project
