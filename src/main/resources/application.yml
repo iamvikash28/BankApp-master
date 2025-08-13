@@ -1,0 +1,22 @@
+server:
+  port: 8989
+  servlet:
+    context-path: /bank-api
+
+spring:
+  security:
+    user:
+      name: bankapp
+      password: changeit
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/bankappdb?useSSL=false&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 
+
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true

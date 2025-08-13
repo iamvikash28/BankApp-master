@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vikas
+Build-Jdk: 21.0.8
+Implementation-Title: BankApp
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.coding.exercise
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bank-app
+Created-By: Maven Integration for Eclipse
+
