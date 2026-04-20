@@ -5,6 +5,15 @@ This project is designed as a coding exercise but follows real-world architectur
 
 ---
 
+## 📸 Preview
+
+<img width="1920" height="1048" alt="screencapture-localhost-8989-bank-api-swagger-ui-html-2026-04-17-13_41_51" src="https://github.com/user-attachments/assets/83f35131-fc22-4d25-8f6d-30a01f2ce3f0" />
+
+<img width="1920" height="2926" alt="screencapture-localhost-8989-bank-api-swagger-ui-html-2026-04-17-13_42_45" src="https://github.com/user-attachments/assets/495756a9-10e9-4e41-864a-cb3fa138cc85" />
+
+
+---
+
 ## 📌 Features
 - **Customer Management**  
   - Create, update, and view customer details  
@@ -78,10 +87,11 @@ mvn spring-boot:run
 - **REST API**
 - **H2/MySQL Database**
 
-## 📄 License
-This project is licensed under the terms of the LICENSE file.
+--- 
 
-## 🤝 Contributing
-Contributions are welcome!
-Please fork the repository and submit a pull request for review.
+## 👤 Author
 
+**Vikash Verma**
+Aspiring Data Analyst | Excel · SQL · Power BI · Python | E-mail- vikashverma566@gmail.com
+
+---
