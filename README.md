@@ -11,7 +11,6 @@ This project is designed as a coding exercise but follows real-world architectur
 
 <img width="1920" height="2926" alt="screencapture-localhost-8989-bank-api-swagger-ui-html-2026-04-17-13_42_45" src="https://github.com/user-attachments/assets/495756a9-10e9-4e41-864a-cb3fa138cc85" />
 
-
 ---
 
 ## 📌 Features
@@ -40,7 +39,6 @@ src/main/java/com/coding/exercise/bankapp/
 ├── model/ # Entity classes mapped to the database
 ├── repository/ # Spring Data JPA repositories
 └── BankingApplication.java # Main entry point
-
 
 ---
 
